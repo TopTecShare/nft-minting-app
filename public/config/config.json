@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x5E21beD3a3F38c0e69ee36353fC47aAb016eaBae",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x5E21beD3a3F38c0e69ee36353fC47aAb016eaBae",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "NFT_NAME": "ShibeFace NFT",
+  "SYMBOL": "SHIBE",
+  "MAX_SUPPLY": 444,
+  "WEI_COST": 130000000000000000,
+  "DISPLAY_COST": 0.13,
+  "GAS_LIMIT": 500000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dogeface",
   "SHOW_BACKGROUND": true
 }
